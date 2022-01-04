@@ -20,7 +20,7 @@ Sample images
 
 ![FunkyBots](img/60.png) ![FunkyBots](img/97.png) ![FunkyBots](img/143.png)
 
-Each one is unique and has a [nickname](FunkyBotsNicknames.txt)
+Each one is unique and has a [nickname](https://github.com/mazetoken/funkybots/blob/main/FunkyBotsNicknames.txt)
 
 
 ## Wallet
@@ -47,3 +47,5 @@ Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and t
 
 -------------------------------------------------------------
 [Telegram](https://t.me/mazetokens)
+
+[Github](https://github.com/mazetoken/funkybots)
