@@ -20,7 +20,7 @@ Sample images
 
 ![FunkyBots](img/60.png) ![FunkyBots](img/97.png) ![FunkyBots](img/143.png)
 
-Each one is unique and has a nickname
+Each one is unique and has a [nickname](FunkyBotsNicknames.txt)
 
 
 ## Wallet

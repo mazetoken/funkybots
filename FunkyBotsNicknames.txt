@@ -1,0 +1,255 @@
+FunkyBots NFT
+
+Token ID & Nickname
+    0 Bruno
+    1 Manatee
+    2 Dum Dum
+    3 Chum
+    4 Cotton
+    5 Swiss Miss
+    6 Shrinkwrap
+    7 Dragonfly
+    8 Moose
+    9 Wilma
+    10 Bandit
+    11 Lover
+    12 Double Bubble
+    13 Itchy
+    14 Matey
+    15 Senior
+    16 Tiny Bomb
+    17 Bubble Butt
+    18 Gizmo
+    19 Pecan
+    20 Sassafras
+    21 Queenie
+    22 Chip
+    23 Tarzan
+    24 Buttercup
+    25 Janitor
+    26 Mountain
+    27 Mistress
+    28 Cheeto
+    29 Master
+    30 Chain
+    31 French Fry
+    32 Bubba
+    33 Captain
+    34 Happy
+    35 Pearl
+    36 Filly Fally
+    37 Dearest
+    38 Golden Graham
+    39 Tomcat
+    40 Dud
+    41 Peep
+    42 Fun Dip
+    43 Munchkin
+    44 Ghoulie
+    45 Chili
+    46 Dulce
+    47 Knucklebutt
+    48 Juicy
+    49 Bebe
+    50 Hot Sauce
+    51 Buds
+    52 Rambo
+    53 Foxy Mama
+    54 Buddy
+    55 Half Pint
+    56 Twig
+    57 Rainbow
+    58 Raindrop
+    59 Cheddar
+    60 Boo Bear
+    61 Blimpie
+    62 Cold Brew
+    63 Weiner
+    64 Luna
+    65 Honey Locks
+    66 Smoochie
+    67 4-Wheel
+    68 Papito
+    69 Belch
+    70 Twizzler
+    71 Fatty
+    72 Lulu
+    73 Grumpy
+    74 Bumpkin
+    75 Freak
+    76 Cinnamon
+    77 Betty Boop
+    78 Highbeam
+    79 Bessie
+    80 String Bean
+    81 Amore
+    82 LaLa
+    83 Cuddle Pig
+    84 Eagle-G
+    85 Lil Skunk
+    86 Dottie
+    87 Cuddles
+    88 Amiga
+    89 Buffalo
+    90 Lefty
+    91 Goon
+    92 Kirby
+    93 Bridge Zero
+    94 Guapo
+    95 Mc Hammer
+    96 Psycho
+    97 Gingersnap
+    98 DJ Dog
+    99 Pookie
+    100 Dracula
+    101 Morda
+    102 Chicken
+    103 Doobie
+    104 Pop Tart
+    105 Darling
+    106 Luken
+    107 Mu-sic
+    108 Chuckles
+    109 Pintsize
+    110 Fifi
+    111 Herp Derp
+    112 B-Pop
+    113 Sassy
+    114 Limo
+    115 Cricket
+    116 Big Bird
+    117 Baby Maker
+    118 Gordo
+    119 Flap
+    120 Inchworm
+    121 Beef
+    122 Shuttershy
+    123 Bacon
+    124 Ginger
+    125 Doctor
+    126 Monkey Money
+    127 Loosetooth
+    128 Gumdrop
+    129 Skinny Minny
+    130 Rosebud
+    131 Cutie Pie
+    132 Snickerdoodle
+    133 Cumulus
+    134 Foxy Lady
+    135 Boogie
+    136 Super Roman
+    137 Sweetums
+    138 Grease
+    139 Double Double
+    140 Twinkly
+    141 Weirdo
+    142 C-Dawg
+    143 Snake
+    144 Creedence
+    145 Bello
+    146 Ice
+    147 First Mate
+    148 Skipper
+    149 Jet
+    150 Beetle
+    151 Cloud
+    152 Coke Zero
+    153 Tank
+    154 Buster
+    155 MomBod
+    156 Twiggy
+    157 Amazing
+    158 Chiquita
+    159 Fun Size
+    160 Bunny
+    161 Sugar
+    162 Lobster
+    163 Darian
+    164 Goldie
+    165 Fiesta
+    166 BeatBob
+    167 Amorcita
+    168 Gator
+    169 Boo
+    170 Rubber
+    171 Numbers
+    172 Smiley
+    173 Doll
+    174 Birdy
+    175 Scout
+    176 Melex
+    177 Snuggles
+    178 Snoopy
+    179 Pebbles
+    180 Cookie Dough
+    181 Chef
+    182 Daffodil
+    183 Brave
+    184 Beast
+    185 Chopper
+    186 Bambino
+    187 Raisin
+    188 Carrot
+    189 Hendrix
+    190 Gummy Pop
+    191 Twinkie
+    192 Flyby
+    193 Fido
+    194 Coach
+    195 Chubs
+    196 Robin
+    197 Boo
+    198 Biffle
+    199 Donut
+    200 Brutus
+    201 Crumbles
+    202 Little Bear
+    203 Lou Who
+    204 Pluton
+    205 Vroom
+    206 Piglet
+    207 Spud
+    208 Loop
+    209 Frogger
+    210 Goblin
+    211 Diva
+    212 Halfmast
+    213 Baldie
+    214 Rocketfuel
+    215 Cannoli
+    216 Kid
+    217 Dots
+    218 Dorito
+    219 Frau Frau
+    220 Guy
+    221 Hot Pepper
+    222 Ocho
+    223 Jackrabbit
+    224 Giant
+    225 Chickie
+    226 Ringo
+    227 Amethyst
+    228 Rock
+    229 Button
+    230 Worker
+    231 Winnie
+    232 Buzz
+    233 Butterbuns
+    234 Snickers
+    235 Rufio
+    236 Bruiser
+    237 Smirk
+    238 Dynamite
+    239 Ork
+    240 Slick
+    241 Miner
+    242 Dot
+    243 Ducky
+    244 Drum
+    245 Dino
+    246 Fury
+    247 Pepe
+    248 Orion
+    249 Rehab
+    
+
