@@ -1,6 +1,10 @@
 # Funky Bots - Bitcoin Cash SmartBCH Non-Fungible Tokens
 
-Get Funky!
+## Get Funky!
+
+Name: FunkyBots
+
+Symbol: FunkyBots
 
 Contract address: 0xad2f872AF013C7275eEBC6e7a43d604bA186db6D
 
@@ -10,13 +14,36 @@ NFT images and metadata are stored on [IPFS](https://gateway.pinata.cloud/ipfs/Q
 
 Sample images
 
-![FunkyBots](img/10.png) ![FunkyBots](img/20.png)
+![FunkyBots](img/2.png) ![FunkyBots](img/10.png) ![FunkyBots](img/20.png)
 
-![FunkyBots](img/30.png) ![FunkyBots](img/40.png)
+![FunkyBots](img/30.png) ![FunkyBots](img/40.png) ![FunkyBots](img/50.png)
 
-![FunkyBots](img/50.png) ![FunkyBots](img/60.png)
+![FunkyBots](img/60.png) ![FunkyBots](img/97.png) ![FunkyBots](img/143.png)
 
 Each one is unique and has a nickname
+
+
+## Wallet
+
+Use MetaMask mobile app to see NFT images
+
+Add SmartBCH network (RPC)
+
+```
+Network name: SmartBCH
+RPC URL: https://smartbch.greyh.at
+or
+https://smartbch.fountainhead.cash/mainnet
+or
+https://global.uat.cash
+Chain ID: 10000
+Currency Symbol: BCH
+```
+
+Add the token as usual - „+ Add tokens”, paste FunkyBots NFT contract address (0xad2f872AF013C7275eEBC6e7a43d604bA186db6D), but type manually token symbol (FunkyBots) and set decimals (tokens of precision) 0
+
+Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and type your NFT ID. You might need to tap „Add” twice
+
 
 -------------------------------------------------------------
 [Telegram](https://t.me/mazetokens)
