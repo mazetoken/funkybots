@@ -12,6 +12,7 @@ Total supply: 250
 
 NFT images and metadata are stored on [IPFS](https://gateway.pinata.cloud/ipfs/QmXnLCbANTCeCkkkNdx6Cpvjg4r9MiXFqpTvqKJape2AYP/)
 
+
 Sample images
 
 ![FunkyBots](img/2.png) ![FunkyBots](img/10.png) ![FunkyBots](img/20.png)
@@ -48,6 +49,8 @@ Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and t
 ## Trade on Oasis NFT Marketplace
 
 FunkyBots [Collection](https://oasis.cash/collection/0xad2f872AF013C7275eEBC6e7a43d604bA186db6D)
+
+_It may take a few minutes for images to load from IPFS. Refresh the page._
 
 
 -------------------------------------------------------------
