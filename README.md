@@ -45,7 +45,12 @@ Add the token as usual - „+ Add tokens”, paste FunkyBots NFT contract addres
 Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and type your NFT ID. You might need to tap „Add” twice
 
 
+## Trade on Oasis NFT Marketplace
+
+FunkyBots [Collection](https://oasis.cash/collection/0xad2f872AF013C7275eEBC6e7a43d604bA186db6D)
+
+
 -------------------------------------------------------------
 [Telegram](https://t.me/mazetokens)
 
-[Github](https://github.com/mazetoken/funkybots)
+[FunkyBots on Github](https://github.com/mazetoken/funkybots)
