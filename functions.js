@@ -49,3 +49,19 @@ function viewNFT1() {
         $("#lang3").html(content);
         });
 };
+
+function sendNFT() {
+    var address = $("#addressTo").val();
+    var tokenId = $("#tokenID").val();
+    var content = "Sending transaction from: ";
+    content += zombieMaster;
+    $("#lang4").html(content);
+    var contract = new web3.eth.Contract(abi, '0xad2f872AF013C7275eEBC6e7a43d604bA186db6D'); // FunkyBots
+    var event = contract.methods.safeTransferFrom(address, tokenId).send({ from: zombieMaster })
+        .then(function (receipt) {
+            console.log(receipt);
+    var content = "Transaction sent!: ";
+    content += JSON.stringify(receipt.transactionHash);
+    $("#lang4").html(content);
+        });;
+};
