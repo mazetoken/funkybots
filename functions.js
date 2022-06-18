@@ -13,7 +13,7 @@ function viewNFT() {
             });
     var event = contract.methods.ownerOf(x).call()
         .then(function (result) {
-        if (result == zombieMaster) content += " <-mine, ";
+        if (result == zombieMaster) content += " <=yours, ";
         $("#lang").html(content);
         });
     };
