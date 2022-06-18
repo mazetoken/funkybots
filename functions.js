@@ -57,7 +57,7 @@ function sendNFT() {
     content += zombieMaster;
     $("#lang4").html(content);
     var contract = new web3.eth.Contract(abi, '0xad2f872AF013C7275eEBC6e7a43d604bA186db6D'); // FunkyBots
-    var event = contract.methods.safeTransferFrom(address, tokenId).send({ from: zombieMaster })
+    var event = contract.methods.safeTransferFrom(zombieMaster, address, tokenId).send({ from: zombieMaster })
         .then(function (receipt) {
             console.log(receipt);
     var content = "Transaction sent!: ";
